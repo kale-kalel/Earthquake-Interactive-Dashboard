@@ -1,0 +1,41 @@
+/* Applies to main content */
+.stMainBlockContainer {
+    max-width: 80%;
+    padding: 3rem 1rem 10rem;
+}
+
+/* Side bar */
+.st-emotion-cache-kgpedg {
+    padding: .5rem;
+}
+
+.stNumberInput, .stSelectbox {
+    padding-left: 5%;
+}
+ 
+.st-emotion-cache-1mw54nq.egexzqm0 p{
+    font-weight: 600;
+}
+
+.stHeading, .stSlider, .stNumberInput, .stSelectbox {
+    padding-bottom: 0.5rem;
+}
+
+.stVerticalBlock.st-emotion-cache-16i25t9.e6rk8up3 {
+    gap: 0.2rem;
+}
+
+/* Middle column */
+.stMarkdown .st-emotion-cache-1104ytp.egexzqm0 {
+    display: flex;
+    justify-content: center;
+}
+
+/* Right */
+.stColumn.st-emotion-cache-3n2evu.e6rk8up2 {
+    padding-top: 10px;
+}
+
+.st-bd.st-be.st-bf.st-bg.st-bl.st-bm {
+    background-color: #FF4B4B;
+}
