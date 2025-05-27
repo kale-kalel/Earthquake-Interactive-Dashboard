@@ -9,6 +9,7 @@ This project aims to demonstrate data visualization techniques by presenting mea
   3. No Nan values
 
 ## Additional Information
+  * Set streamlit theme to light mode for better experience
   * The slide bar controls the year range for all charts / plots
   * Slider bar and tick controls are disabled for month view
   * Additional columns will serve as the basis for analysis (e.g., the year column will be utilized instead of extracting the year from the date column)
