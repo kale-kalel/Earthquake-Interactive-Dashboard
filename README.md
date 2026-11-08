@@ -2,6 +2,8 @@
 ## Overview
 This project aims to demonstrate data visualization techniques by presenting meaningful insights from earthquake data through an interactive dashboard. The dataset used can be found on Kaggle, [Earthquake Occurrence](https://www.kaggle.com/datasets/greegtitan/indonesia-earthquake-data)
 
+Live Demo: [Earthquake Interactive Dashboard](https://earthquake-interactive-dashboard-kale-kalel.streamlit.app/)
+
 # Instructions & Information
 ## File Input Requirements
   1. Necessary columns: date, time, latitude, longitude, depth, magnitude
